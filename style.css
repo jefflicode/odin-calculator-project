@@ -1,0 +1,296 @@
+.calculatorContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.firstSection {
+    width: 252px;
+    height: 70px;
+    border-color: black;
+    border: solid 2px;
+    margin-top: 90px;
+}
+
+.firstSectionText {
+    text-align:right;
+    font-size: 50px;
+    margin-top: 18px;
+    margin-right: 18px;
+}
+
+.secondSection {
+    display: flex;
+    flex-direction: row;
+}
+
+.ac {
+    width: 60px;
+    height: 50px;
+    border-color: black;
+    border: solid 2px;
+    /* background-color: rgb(50, 129, 183); */
+}
+
+.positiveNegative {
+    width: 60px;
+    height: 50px;
+    border-color: black;
+    border: solid 2px;
+    background-color: rgb(50, 129, 183);
+}
+
+.percentage {
+    width: 60px;
+    height: 50px;
+    border-color: black;
+    border: solid 2px;
+    background-color: rgb(50, 129, 183);
+}
+
+.divide {
+    width: 60px;
+    height: 50px;
+    border-color: black;
+    border: solid 2px;
+}
+
+.acText {
+    text-align: center;
+    font-size: 23px;
+    margin-top: 10px;
+}
+
+.positiveNegativeText {
+    text-align: center;
+    font-size: 23px;
+    margin-top: 10px;
+}
+
+.percentageText {
+    text-align: center;
+    font-size: 23px;
+    margin-top: 10px;
+}
+
+.divideText {
+    text-align: center;
+    font-size: 23px;
+    margin-top: 10px;
+}
+
+.thirdSection {
+    display: flex;
+    flex-direction: row;
+}
+
+.seven {
+    width: 60px;
+    height: 50px;
+    border-color: black;
+    border: solid 2px;
+}
+
+.eight {
+    width: 60px;
+    height: 50px;
+    border-color: black;
+    border: solid 2px;
+}
+
+.nine {
+    width: 60px;
+    height: 50px;
+    border-color: black;
+    border: solid 2px;
+}
+
+.multiply {
+    width: 60px;
+    height: 50px;
+    border-color: black;
+    border: solid 2px;
+}
+
+.sevenText {
+    text-align: center;
+    font-size: 23px;
+    margin-top: 10px;
+}
+
+.eightText {
+    text-align: center;
+    font-size: 23px;
+    margin-top: 10px;
+}
+
+.nineText {
+    text-align: center;
+    font-size: 23px;
+    margin-top: 10px;
+}
+
+.multiplyText {
+    text-align: center;
+    font-size: 23px;
+    margin-top: 10px;
+}
+
+.fourthSection {
+    display: flex;
+    flex-direction: row;
+}
+
+.four {
+    width: 60px;
+    height: 50px;
+    border-color: black;
+    border: solid 2px;
+}
+
+.five {
+    width: 60px;
+    height: 50px;
+    border-color: black;
+    border: solid 2px;
+}
+
+.six {
+    width: 60px;
+    height: 50px;
+    border-color: black;
+    border: solid 2px;
+}
+
+.minus {
+    width: 60px;
+    height: 50px;
+    border-color: black;
+    border: solid 2px;
+}
+
+.fourText {
+    text-align: center;
+    font-size: 23px;
+    margin-top: 10px;
+}
+
+.fiveText {
+    text-align: center;
+    font-size: 23px;
+    margin-top: 10px;
+}
+
+.sixText {
+    text-align: center;
+    font-size: 23px;
+    margin-top: 10px;
+}
+
+.minusText {
+    text-align: center;
+    font-size: 23px;
+    margin-top: 10px;
+}
+
+.fifthSection {
+    display: flex;
+    flex-direction: row;
+}
+
+.one {
+    width: 60px;
+    height: 50px;
+    border-color: black;
+    border: solid 2px;
+}
+
+.two {
+    width: 60px;
+    height: 50px;
+    border-color: black;
+    border: solid 2px;
+}
+
+.three {
+    width: 60px;
+    height: 50px;
+    border-color: black;
+    border: solid 2px;
+}
+
+.plus {
+    width: 60px;
+    height: 50px;
+    border-color: black;
+    border: solid 2px;
+}
+
+.oneText {
+    text-align: center;
+    font-size: 23px;
+    margin-top: 10px;
+}
+
+.twoText {
+    text-align: center;
+    font-size: 23px;
+    margin-top: 10px;
+}
+
+.threeText {
+    text-align: center;
+    font-size: 23px;
+    margin-top: 10px;
+}
+
+.plusText {
+    text-align: center;
+    font-size: 23px;
+    margin-top: 10px;
+}
+
+.lastSection {
+    display: flex;
+    flex-direction: row;
+}
+
+.zero {
+    width: 124px;
+    height: 50px;
+    border-color: black;
+    border: solid 2px;
+}
+
+.decimal {
+    width: 60px;
+    height: 50px;
+    border-color: black;
+    border: solid 2px;
+}
+
+.equal {
+    width: 60px;
+    height: 50px;
+    border-color: black;
+    border: solid 2px;
+}
+
+.zeroText {
+    text-align: center;
+    font-size: 23px;
+    margin-top: 10px;
+}
+
+.decimalText {
+    text-align: center;
+    font-size: 23px;
+    margin-top: 10px;
+}
+
+.equalText {
+    text-align: center;
+    font-size: 23px;
+    margin-top: 10px;
+}
